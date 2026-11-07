@@ -53,4 +53,4 @@ We may update this policy. The current version is always published at this addre
 
 ## 9. Contact
 
-Email: alexander.sviridoff@gmail.com
+Email: sviridoff.mail@gmail.com
