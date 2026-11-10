@@ -4,9 +4,9 @@ title: Kitten Kitchen – Privacy Policy
 
 # Privacy Policy – Kitten Kitchen: Cooking Games
 
-**Developer:** Sviridoff (Alexander Sviridov)
-**App:** Kitten Kitchen: Cooking Games (Android package `com.sviridoff.kittenkitchen`)
-**Last updated:** 7 November 2026
+**Developer:** SviriLabs (Alexander Sviridov)
+**App:** Kitten Kitchen: Cooking Games (Android package `com.svirilabs.kittenkitchen`)
+**Last updated:** 10 November 2026
 
 This policy explains what data the app collects, how it is used and your choices.
 
@@ -53,4 +53,4 @@ We may update this policy. The current version is always published at this addre
 
 ## 9. Contact
 
-Email: sviridoff.mail@gmail.com
+Email: svirilabs@gmail.com
